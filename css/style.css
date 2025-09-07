@@ -1,0 +1,28 @@
+body {
+    background-color: #f5cda2;
+}
+
+h1 {
+    color: #756563;
+    font-size: 50px;
+    text-align: center;
+    font-family: Times;
+    font-weight: 500;
+}
+
+h2 {
+    color:#968f87;
+    font-family: Arial;
+    font-weight: 100;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    font-family: arial;
+    font-size: 12px;
+}
